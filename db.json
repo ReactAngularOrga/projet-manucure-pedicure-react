@@ -1,0 +1,66 @@
+{
+  "reservations": [
+    {
+      "nom": "BENNANI",
+      "prenom": "Ayoub",
+      "email": "a.bennani@hotmail.com",
+      "date": "2020-12-10",
+      "categorie": "Pédicure",
+      "heureRdv": "11:00",
+      "id": 7
+    },
+    {
+      "nom": "aaaa",
+      "prenom": "aaaa",
+      "email": "aaa@aaa.com",
+      "categorie": "Manucure",
+      "date": "2020-11-21",
+      "heureRdv": "10:10",
+      "id": 8
+    },
+    {
+      "nom": "ddddd",
+      "prenom": "dddd",
+      "email": "ddd@dd.com",
+      "categorie": "Manucure",
+      "date": "2020-11-21",
+      "heureRdv": "11:11",
+      "id": 9
+    }
+  ],
+  "inscription": [
+    {
+      "nom": "km",
+      "prenom": "klm",
+      "email": "kl@ldsfsd.com",
+      "tel": "06154455",
+      "id": 1
+    },
+    {
+      "nom": "aaaa",
+      "prenom": "aaaa",
+      "email": "aaa@aaa.aa",
+      "tel": "0654555",
+      "id": 2
+    },
+    {
+      "nom": "aaaa",
+      "prenom": "aaaa",
+      "email": "aaa@aaa.com",
+      "tel": "025545696",
+      "id": 3
+    }
+  ],
+  "prestations": [
+    {
+      "nomPrestation": "pedicure",
+      "prix": 45,
+      "id": 1
+    },
+    {
+      "nomPrestation": "manucure",
+      "prix": 54,
+      "id": 2
+    }
+  ]
+}
